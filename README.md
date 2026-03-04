@@ -1,13 +1,13 @@
 # Daniel Wells, Ph.D.
 ### Seismologist · AI/ML Researcher · Research Data Scientist
 
-> *Bio coming soon.*
+<!-- > *Bio coming soon.* -->
 
 ---
 
 ## 🔬 About
 
-I work at the intersection of **geophysics** and **machine learning** — applying deep learning, signal processing, and probabilistic methods to problems in seismology, geosciences, and beyond. Currently a Research Data Scientist at Idaho National Laboratory.
+I work at the intersection of **geophysics**, **statistical modeling**, and **machine learning** — applying deep learning, signal processing, and probabilistic methods to problems in seismology, geosciences, wireless signals, and beyond. 
 
 📍 Pocatello, ID &nbsp;|&nbsp; 📧 danedwells@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/dan-wells-591b49a8)
 
@@ -15,16 +15,34 @@ I work at the intersection of **geophysics** and **machine learning** — applyi
 
 ## 🛠️ Skills & Technologies
 
-**Languages & Tools**
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![FORTRAN](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**ML & Data Science**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Web & Frameworks**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Design & GIS**
+
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
 
 **Specializations**
 - Deep Learning: CNNs, Transformers, GANs, Autoencoders, Physics-Informed Neural Networks
@@ -35,15 +53,16 @@ I work at the intersection of **geophysics** and **machine learning** — applyi
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
-### [Chimera](https://github.com/danedwells) — *AI/ML Framework*
+### Chimera — *AI/ML Framework*
 Flexible framework for accessible, automatic application of AI and ML to scientific data. Features auto-encoders and dimensionality reduction wrappers for rapid deployment across diverse input types.
 
 ### GREENR — *Geometallurgy of Rare Earth Elements*
 Supervised ML for monazite classification; addressing data scarcity challenges in REE geoscience.
 
 ### Multiphysics Simulation for Geological Hydrogen Production
+
 Physics-informed neural networks to optimize subsurface serpentinization for clean hydrogen production.
 
 ### WiFIRE — *Wireless Signal Intelligence*
@@ -68,7 +87,7 @@ ML pipeline for portable detection, classification, and open-set recognition of 
 - Wells, D. et al. (2025). A Comparative Analysis of Feature Extraction and Distance Loss Functions for Unknown Waveform Detection. *IEEE Transactions on Signal Processing.*
 - Wells, D. E. et al. (2025). Evidence for interaction of Wasatch Fault segments at depth. *Seismica.*
 
-> 📚 Full publication list available on [Google Scholar](#) *(link placeholder)*
+<!-- > 📚 Full publication list available on [Google Scholar](#) *(link placeholder)* -->
 
 ---
 
@@ -96,10 +115,9 @@ ML pipeline for portable detection, classification, and open-set recognition of 
 |----------|------|
 | 📧 Email | danedwells@gmail.com |
 | 💼 LinkedIn | [dan-wells-591b49a8](https://www.linkedin.com/in/dan-wells-591b49a8) |
-| 🐦 Twitter/X | *placeholder* |
-| 🌐 Website | *placeholder* |
+<!-- | 🌐 Website | *placeholder* |
 | 🎓 Google Scholar | *placeholder* |
-| 🔬 ResearchGate | *placeholder* |
+| 🔬 ResearchGate | *placeholder* | -->
 
 ---
 
