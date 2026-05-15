@@ -9,7 +9,7 @@
 
 I work at the intersection of **geophysics**, **statistical modeling**, and **machine learning** — applying deep learning, signal processing, and probabilistic methods to problems in seismology, geosciences, wireless signals, and beyond. 
 
-📍 Pocatello, ID &nbsp;|&nbsp; 📧 danedwells@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/dan-wells-591b49a8)
+📍 Pocatello, ID &nbsp;|&nbsp; 📧 danedwells@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/dan-wells-591b49a8) | [Website](https://danedwells.com/)
 
 ---
 
