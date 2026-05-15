@@ -9,7 +9,7 @@
 
 I work at the intersection of **geophysics**, **statistical modeling**, and **machine learning** — applying deep learning, signal processing, and probabilistic methods to problems in seismology, geosciences, wireless signals, and beyond. 
 
-📍 Pocatello, ID &nbsp;|&nbsp; 📧 danedwells@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/dan-wells-591b49a8) | [Website](https://danedwells.com/)
+📍 Pocatello, ID &nbsp;|&nbsp; 📧 danedwells@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/dan-wells-591b49a8)  |  [Website](https://danedwells.com/)
 
 ---
 
@@ -54,6 +54,9 @@ I work at the intersection of **geophysics**, **statistical modeling**, and **ma
 ---
 
 ## 🚀 Projects
+
+### Earthquake Early Warning and Forecasting with Bayesian Priors and AI
+Improving earthquake early warning by implementing static and dynamic Bayesian priors and context-driven GRU architectures to forecast and compute magnitude, location, and timing of earthquakes.
 
 ### Chimera — *AI/ML Framework*
 Flexible framework for accessible, automatic application of AI and ML to scientific data. Features auto-encoders and dimensionality reduction wrappers for rapid deployment across diverse input types.
